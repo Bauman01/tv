@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-07 15:25:24,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=28c4f3fe6963865a2111dc63691587af&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260707112058&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260707112058&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6425d4edede227b77876be50d6976bcc&ddCalcu=c6c4vb2a65y7da946edd0e5deeb262778b77&sv=10004&ct=android
+2026-07-07 17:44:00,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=28c4f3fe6963865a2111dc63691587af&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260707112058&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260707112058&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6425d4edede227b77876be50d6976bcc&ddCalcu=c6c4vb2a65y7da946edd0e5deeb262778b77&sv=10004&ct=android
 
 📺央视频道,#genre#
 CCTV-1 综合,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=28c4f3fe6963865a2111dc63691587af&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260707112058&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260707112058&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6425d4edede227b77876be50d6976bcc&ddCalcu=c6c4vb2a65y7da946edd0e5deeb262778b77&sv=10004&ct=android
@@ -53,6 +53,11 @@ CCTV-8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
 🌊港澳台,#genre#
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/n90gt
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻台,http://r.jdshipin.com/CkuBd
 无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -63,11 +68,6 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_10
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线新闻,https://hls-gateway.vpstv.net/streams/476926.m3u8
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/n90gt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://r.jdshipin.com/jUx8K
@@ -101,6 +101,16 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 TVB1,https://hls-gateway.vpstv.net/streams/709593.m3u8
 TVB1,https://cdn6.cc.cd/163189/tvb1
+RTHK 31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+RTHK 31,http://cdn.163189.xyz/163189/rthk31
+RTHK 31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK 31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
+RTHK 31,http://cdn.163189.xyz/163189/rthk31#https://cdn9.163189.xyz/smt3.1.1.php?id=rhk31_twn
+RTHK 32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+RTHK 32,http://cdn.163189.xyz/163189/rthk32
+RTHK 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+RTHK 32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+RTHK 32,http://cdn.163189.xyz/163189/rthk32#https://cdn9.163189.xyz/smt3.1.1.php?id=rhk32_twn
 有线新闻,https://cdn.163189.xyz/163189/hoy78
 有线新闻,https://stream1.freetv.fun/you-xian-xin-wen-1.m3u8
 有线新闻,https://stream1.freetv.fun/you-xian-xin-wen-2.m3u8
@@ -144,3 +154,10 @@ TVB1,https://cdn6.cc.cd/163189/tvb1
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-2.m3u8
 广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-13.ctv
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-1.m3u8
+
+📡卫视频道,#genre#
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
