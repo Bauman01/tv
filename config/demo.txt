@@ -29,6 +29,8 @@ Now新闻台
 港台电台 32
 RTHK 31
 RTHK 32
+RHK 31
+RHK 32
 HOYTV
 viuTV
 有线新闻
