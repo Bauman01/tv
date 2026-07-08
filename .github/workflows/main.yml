@@ -12,7 +12,6 @@ name: 'Update schedule'
 on:
   schedule:
     - cron: '0 10 * * *'
-on:
   workflow_dispatch:
 
 jobs:
