@@ -1,16 +1,14 @@
 🕘️更新时间,#genre#
-2026-07-10 20:56:41,http://183.47.2.156:16883/udp/239.77.1.144:5146
+2026-07-11 19:31:27,http://183.47.2.156:16883/udp/239.77.1.144:5146
 
 📺央视频道,#genre#
 CCTV-1 综合,http://183.47.2.156:16883/udp/239.77.1.144:5146
-CCTV-2 财经,http://59.35.185.47:8188/udp/239.77.1.158:5146
 CCTV-2 财经,http://183.47.2.156:16883/udp/239.77.1.158:5146
 CCTV-4 中文国际,http://183.236.43.98:4013/udp/239.77.1.163:5146
 CCTV-6 电影,http://59.35.185.47:8188/udp/239.77.0.171:5146
-CCTV-6 电影,http://183.47.2.156:16883/udp/239.77.0.171:5146
-CCTV-8 电视,http://183.47.2.156:16883/udp/239.77.0.172:5146
+CCTV-6 电影,http://183.236.43.98:4013/udp/239.77.0.171:5146
 CCTV-8 电视,http://183.236.43.98:4013/udp/239.77.0.172:5146
-CCTV-9 纪录,http://183.47.2.156:16883/udp/239.77.0.135:5146
+CCTV-9 纪录,http://183.236.43.98:4013/udp/239.77.0.135:5146
 CCTV-10 科教,http://183.236.43.98:4013/udp/239.77.0.134:5146
 CCTV-10 科教,http://183.47.2.156:16883/udp/239.77.0.134:5146
 CCTV-13 新闻,http://183.47.2.156:16883/udp/239.253.43.196:5146
@@ -140,10 +138,11 @@ RTHK 32,https://fast.hidns.vip/163189/rthk32
 美亚电影台,http://o11.163189.xyz/stream/live/tvbc/#https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 
 ☘️广东频道,#genre#
-广东卫视,http://183.47.2.156:16883/udp/239.77.0.166:5146
 广东卫视,http://183.47.2.156:16883/udp/239.77.1.152:5146
+广东卫视,http://183.47.2.156:16883/udp/239.77.0.166:5146
+广东卫视,http://183.62.8.58:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://183.47.2.156:16883/udp/239.77.1.19:5146
-广东卫视,http://183.236.43.98:4013/udp/239.77.1.152:5146
+广东卫视,http://live.bypbwxx.top/live/jm-ws0503.php?token=4a9a31fad2bc6dcd03c7ae93cc3c0c
 大湾区卫视,http://154.12.36.187:656/index.php?token=2025&id=dwqws
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
@@ -153,12 +152,15 @@ RTHK 32,https://fast.hidns.vip/163189/rthk32
 大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=6e23ed23803d2776218fbd5b6931d4dd0d0a20d0269ca0da6b2efaaf101f71c62689ec1d6f73e16a10d1b756f7e23f0de494b881e2bc39c12250715721f84c185577680003f363869dba1b7e90
 大湾区卫视,http://ott.mobaibox.com/PLTV/-/224/3221228326/index.m3u8
 大湾区卫视,https://live.chinacert.cftest5.cn/cnmg/live/608917627
-广东珠江,http://jellyfin.cyruslee.top:8888/udp/239.77.0.1:5146
+广东珠江,http://183.236.43.98:4013/udp/239.77.0.114:5146
+广东珠江,http://8.134.175.232:4022/udp/239.77.0.1:5146
+广东珠江,http://183.47.2.156:16883/udp/239.77.0.114:5146
+广东珠江,http://183.236.43.98:4013/udp/239.77.0.1:5146
 广东珠江,http://plex.cyruslee.top:8888/udp/239.77.0.1:5146
-广东珠江,http://yanshifen.top:8889/udp/239.77.0.1:5146
-广东珠江,http://61.145.188.90:50055/udp/239.77.0.1:5146
-广东珠江,http://www.syy3.top:3861/udp/239.77.0.1:5146
-广东珠江,http://wmh.wmh.ink:6633/udp/239.77.0.1:5146
+广东珠江,http://183.47.2.156:16883/udp/239.77.0.1:5146
+广东珠江,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.1:5146
+广东珠江,http://vp.maomizi.cc:9530/udp/239.77.0.1:5146
+广东珠江,http://jellyfin.cyruslee.top:8888/udp/239.77.0.1:5146
 广东新闻,http://107.150.60.122/live/gdxw.m3u8
 广东新闻,http://192.151.150.154/live/gdxw.m3u8
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
@@ -169,17 +171,16 @@ RTHK 32,https://fast.hidns.vip/163189/rthk32
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-20.m3u8
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-2.m3u8
 广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
+南国都市4K,http://183.47.2.156:16883/udp/239.253.43.99:5146
 南国都市4K,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+广州新闻,http://zb.hmysapp.cn:802/dft/guangdong/guangzhou.php?id=xinwen
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
-广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=f80e5b7654c57c7571a314d94befe320&txTime=19019c051d5
-广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=659a511e&txSecret=1a5bbbb41bc728d271c8b99e5482f8e7
+广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
+广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=f80e5b7654c57c7571a314d94befe320&txTime=19019c051d5
 广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
-广州新闻,http://zb.hmysapp.cn:802/dft/guangdong/guangzhou.php?id=xinwen
 
 📡卫视频道,#genre#
-浙江卫视,http://183.47.2.156:16883/udp/239.77.1.33:5146
 浙江卫视,http://183.236.43.98:4013/udp/239.77.1.33:5146
-浙江卫视,http://live.bypbwxx.top/live/jm-ws0503.php?token=e46740dda6ea0fc6ffd3344a228aec
+浙江卫视,http://183.47.2.156:16883/udp/239.77.1.33:5146
