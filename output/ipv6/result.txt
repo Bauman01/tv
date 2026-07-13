@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-12 19:43:09,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
+2026-07-13 21:03:10,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
 
 📺央视频道,#genre#
 CCTV-8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
@@ -135,12 +135,3 @@ RTHK 32,https://fast.hidns.vip/163189/rthk32
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-12.ctv
 
 📡卫视频道,#genre#
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
-浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
-浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-浙江卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226690/1.m3u8
-浙江卫视,http://ott.mobaibox.com/PLTV/-/224/3221228309/index.m3u8
-浙江卫视,http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8
