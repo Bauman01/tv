@@ -748,10 +748,10 @@ w_400,https://live.ottiptv.cc/yy/1354693629
 å°å¯åå½å¦-ç,https://live.ottiptv.cc/yy/13739310
 ä½ çå£°é³å¥³å,https://live.ottiptv.cc/yy/1460008724
 4Kæµè¯,#genre#
+æ¹å4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 èå·4k,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 æ²³å4k,https://event.pull.hebtv.com:443/live/live101.m3u8
 åå½é½å¸4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de$LRâ¢IPV4
-ä¸æ¹å«è§,4khttps://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
 å¤®è§ç§»å¨æº,#genre#
 CCTV1ç»¼å,http://wfenf.x3322.net:7788/608807420
@@ -852,12 +852,6 @@ CHCå½±è¿·çµå½±,http://wfenf.x3322.net:7788/952383261
 CHCå¨ä½çµå½±,http://wfenf.x3322.net:7788/644368714
 CHCå®¶åº­å½±é¢,http://wfenf.x3322.net:7788/644368373
 åç¾ä¹¡éè½®æ­å°,http://wfenf.x3322.net:7788/713591450
-
-ä¸çæ¯èµäº,#genre#
-çå¥è¶³ç,https://spqncdnct.inter.71edge.com/tslive/l1/c75_ssports_20260605_cmydoqin_720p_chst1_ts_t4/Yota2ZHuL6utkyFmQ0MLs6Uz2dVHPj1PwTMlw_vasB3uUmjrsSd0-qbHsM0eKfj62ePwfhe0N4U6S7Q86cZZQkTMCGr0W6Wm8WvwDE_NceSn3sCXGprMD30s-Bye7BRBgTD8kjVDSzyrW8WcQD4TXaUgF7poIxd1nYP87ojIFcFjfD-exBUHd5BCOrlN0HY_Oen8iHUQ0Jxn4dRydfvfEnM4a_MXPObxX3TBHogB6vng4LTKEG89FJc6tSBWzC866h0l_3UC2Kaa7LhPTenSbQ/10162553491b87fc67bc977490cfe00fd/c75_ssports_20260605_cmydoqin_720p_chst1_ts_t4.m3u8?key=0726813db4fa6267de819672edeeb84cc
-ç´æ­ä¸­,https://www.rtmpcdn.com/live/cctv5.m3u8
-ä¸çæ¯çå£«Vså¥ä¼¦æ¯äº,https://hlsz.yjjcfw.com/live/elta10.m3u8?expire=1783468468&sign=55738fdf37077b3415a8fd92bfad6475
-ä¸­å¤®5å°çèµ,https://www.rtmpcdn.com/live/cctv5p.m3u8
 
 ç§»å¨æº,#genre#
 CCTV1,http://47.104.178.59:3566/608807420
@@ -1071,53 +1065,62 @@ CGTN,http://wfenf.x3322.net:7788/609017205
 æµ·åå¹¿æ­çµè§æ»å°å°å¿é¢é,http://wfenf.x3322.net:7788/962067523
 
 ç»æ­é¢é,#genre#
-CCTV1,http://go.bkpcp.top/mg/cctv1 
-CCTV2,http://go.bkpcp.top/mg/cctv2 
-CCTV3,http://go.bkpcp.top/mg/cctv3 
-CCTV4,http://go.bkpcp.top/mg/cctv4 
-CCTV5,http://go.bkpcp.top/mg/cctv5
-CCTV5+,http://go.bkpcp.top/mg/cctv5p 
-CCTV6,http://go.bkpcp.top/mg/cctv6
-CCTV7,http://go.bkpcp.top/mg/cctv7 
-CCTV8,http://go.bkpcp.top/mg/cctv8
-CCTV9,http://go.bkpcp.top/mg/cctv9
-CCTV10,http://go.bkpcp.top/mg/cctv10 
-CCTV11,http://go.bkpcp.top/mg/cctv11
-CCTV12,http://go.bkpcp.top/mg/cctv12 
-CCTV13,http://go.bkpcp.top/mg/cctv13 
-CCTV14,http://go.bkpcp.top/mg/cctv14
-CCTV15,http://go.bkpcp.top/mg/cctv15
-CCTV16,http://go.bkpcp.top/mg/cctv16
-CCTV17,http://go.bkpcp.top/mg/cctv17 
-cct4æ¬§æ´²,http://go.bkpcp.top/mg/cctv4o
-cct4ç¾æ´²,http://go.bkpcp.top/mg/cctv4m
-CGTN-è¥¿,http://go.bkpcp.top/mg/cgtne 
-CGTN-é¿,http://go.bkpcp.top/mg/cgtna 
-CGTN-æ³,http://go.bkpcp.top/mg/cgtnf 
-åäº¬å«è§,http://go.bkpcp.top/mg/bjws
-ä¸æ¹å«è§,http://go.bkpcp.top/mg/dfws
-æµæ±å«è§,http://go.bkpcp.top/mg/zjws 
-æ±èå«è§,http://go.bkpcp.top/mg/jsws 
-æ¹åå«è§,http://go.bkpcp.top/mg/hunws 
-å¹¿ä¸å«è§,http://go.bkpcp.top/mg/gdws 
-æ·±å³å«è§4k,http://go.bkpcp.top/mg/szws 
-å±±ä¸å«è§,http://go.bkpcp.top/mg/sdws
-æ²³åå«è§,http://go.bkpcp.top/mg/hnws
-æ±è¥¿å«è§,http://go.bkpcp.top/mg/jxws 
-æ¹åå«è§,http://go.bkpcp.top/mg/hubws 
-æµ·åå«è§,http://go.bkpcp.top/mg/hinws
-éè¥¿å«è§,http://go.bkpcp.top/mg/sxws 
-åµå¢å«è§,http://go.bkpcp.top/mg/btws 
-é»é¾æ±è§,http://go.bkpcp.top/mg/hljws 
-åµå¢å«è§,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-4Kè¶é«æ¸,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.249:8001
-æ·çµå½±,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
-æ·å§åº,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
-æ·å¨±ä¹,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
-æ·Baby,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.238:8001
-CHCå¨ä½çµå½±,http://124.93.18.238:9002//hls/76/index.m3u8
-CHCå®¶åº­å½±é¢,http://124.93.18.238:9002//hls/78/index.m3u8
-CHCå½±è¿·çµå½±,http://124.93.18.238:9002//hls/77/index.m3u8
+CCTV1,http://222.134.19.49:8090/608807420
+CCTV2,http://222.134.19.49:8090/631780532
+CCTV3,http://222.134.19.49:8090/624878271
+CCTV4,http://222.134.19.49:8090/631780421
+CCTV5,http://222.134.19.49:8090/641886683
+CCTV5+,http://222.134.19.49:8090/641886773
+CCTV6,http://222.134.19.49:8090/624878396
+CCTV7,http://222.134.19.49:8090/673168121
+CCTV8,http://222.134.19.49:8090/624878356
+CCTV9,http://222.134.19.49:8090/673168140
+CCTV10,http://222.134.19.49:8090/624878405
+CCTV11,http://222.134.19.49:8090/667987558
+CCTV12,http://222.134.19.49:8090/673168185
+CCTV13,http://222.134.19.49:8090/608807423
+CCTV14,http://222.134.19.49:8090/624878440
+CCTV15,http://222.134.19.49:8090/673168223
+CCTV17,http://222.134.19.49:8090/673168256
+CCTV4æ¬§æ´²,http://222.134.19.49:8090/608807419
+CCTV4ç¾æ´²,http://222.134.19.49:8090/608807416
+CGTNå¤è¯­çºªå½,http://222.134.19.49:8090/609006487
+CGTNé¿æä¼¯è¯­,http://222.134.19.49:8090/609154345
+CGTNè¥¿ç­çè¯­,http://222.134.19.49:8090/609006450
+CGTNæ³è¯­,http://222.134.19.49:8090/609006476
+CGTNä¿è¯­,http://222.134.19.49:8090/609006446
+èæäº,http://222.134.19.49:8090/884121956
+åç°ä¹æ,http://222.134.19.49:8090/624878970
+ä¸­å­¦ç,http://222.134.19.49:8090/708869532
+CGTN,http://222.134.19.49:8090/609017205
+èµäºæç»å¸,http://222.134.19.49:8090/646596895
+ä½ååæ æ±,http://222.134.19.49:8090/629943305
+åæµ·éé±¼,http://222.134.19.49:8090/637444975
+éè¥¿ä½è²ä¼é²é¢é,http://222.134.19.49:8090/956909356
+24å°æ¶åå¸èèµè½®æ­å°,http://222.134.19.49:8090/915512915
+æ­¦æ¯ä¸ç,http://222.134.19.49:8090/958475359
+å¿«ä¹åé,http://222.134.19.49:8090/961930263
+ä¸æ¹å«è§,http://222.134.19.49:8090/651632648
+æ±èå«è§,http://222.134.19.49:8090/623899368
+å¹¿ä¸å«è§,http://222.134.19.49:8090/608831231
+åäº¬å«è§,http://222.134.19.49:8090/630287636
+è¾½å®å«è§,http://222.134.19.49:8090/630291707
+æ²³åå«è§,http://222.134.19.49:8090/962042070
+æ±è¥¿å«è§,http://222.134.19.49:8090/783847495
+æ²³åå«è§,http://222.134.19.49:8090/790187291
+éè¥¿å«è§,http://222.134.19.49:8090/738910838
+å¤§æ¹¾åºå«è§,http://222.134.19.49:8090/608917627
+æ¹åå«è§,http://222.134.19.49:8090/947472496
+åæå«è§,http://222.134.19.49:8090/947472500
+éæµ·å«è§,http://222.134.19.49:8090/947472506
+ä¸åå«è§,http://222.134.19.49:8090/849116810
+æµ·åå«è§,http://222.134.19.49:8090/947472502
+æµ·å³¡å«è§,http://222.134.19.49:8090/849119120
+ä¸­å½åæå«è§,http://222.134.19.49:8090/956904896
+åµå¢å«è§,http://222.134.19.49:8090/956923145
+å®å¤å«è§,http://222.134.19.49:8090/738910535
+éåºå«è§,http://222.134.19.49:8090/738910914
+ä¸æ²å«è§,http://222.134.19.49:8090/961023778
 
 åç½é¢é,#genre#
 CCTV1ç»¼å,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -1139,6 +1142,21 @@ CCTV16å¥¥å©å¹å,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17åä¸åæ,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV5+ä½è²èµäº,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV16å¥¥æå¹å,http://74.91.26.218:82/live/cctv16hd.m3u8
+
+å¨ç»çð,#genre#
+å è²ç«,https://live.ottiptv.cc/huya/29837259
+è¶ç»å¸å¨ç»çµå½±,https://live.ottiptv.cc/huya/30080256
+æ¤æçå°é¸,https://live.ottiptv.cc/huya/22487821
+å æ²¹ï¼çæ¡æ¡,https://live.ottiptv.cc/huya/27175393
+å¨ç» ä¼ éå¿«ä¹,https://live.ottiptv.cc/huya/26355818
+æ¨±æ¡å°ä¸¸å­,https://live.ottiptv.cc/huya/11342394
+çåä¸è«è1-6 ,https://live.ottiptv.cc/huya/29982655
+å¤§å¤´å¿å­å°å¤´ç¸ç¸,https://live.ottiptv.cc/huya/20969114
+åå³å¼ ä¸æ´»å®ï¼Qçä¸çå¤§çç¬,https://live.ottiptv.cc/huya/29465871
+å°çªä½©å¥,https://live.ottiptv.cc/huya/25243980
+åç¾ç¾,https://live.ottiptv.cc/huya/31263346
+åç¾ç¾ä¸ç°å¤ªç¼,https://live.ottiptv.cc/huya/23865080
+çåºæ²¡,https://live.ottiptv.cc/huya/25054344
 
 éæ¶åæ°å°âï¸âï¸ð,#genre#
 åæ°æå½±,http://192.144.185.155:6000/rtp/225.1.8.254:4120$åäº¬å¸çµä¿¡
@@ -1173,6 +1191,7 @@ CCTV6æµéå²æ,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H2
 å¤å°ä¸­æ,http://46.196.228.jiaheyy.top/ftx.php?id=fhzw#http://iptv.cqshushu.com/migu.php?pid=fhzw&token=7271f7cff0c44df20722236fef3bac8a#http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 å¤å°èµè®¯,http://46.196.228.jiaheyy.top/ftx.php?id=fhzx#http://iptv.cqshushu.com/migu.php?pid=fhzx&token=7271f7cff0c44df20722236fef3bac8a#http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 TVBSäºæ´²,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+æ°åäººäºå¤ªå°,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 çå½çµè§,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 å¯å¿çµè§,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
