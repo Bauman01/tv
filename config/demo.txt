@@ -25,17 +25,11 @@ now
 TVBJ1
 TVB1
 Now新闻台
-港台电台 31
 港台电台 32
-RTHK 31
 RTHK 32
-RHK 31
 RHK 32
 HOYTV
 viuTV
-有线新闻
-天映频道
-美亚电影台
 
 ☘️广东频道,#genre#
 广东卫视
