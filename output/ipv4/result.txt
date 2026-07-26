@@ -1,17 +1,16 @@
 🕘️更新时间,#genre#
-2026-07-25 19:39:35,http://183.236.43.98:4013/udp/239.77.1.144:5146
+2026-07-26 19:53:21,http://183.47.2.156:16883/udp/239.77.1.144:5146
 
 📺央视频道,#genre#
-CCTV-1 综合,http://183.236.43.98:4013/udp/239.77.1.144:5146
+CCTV-1 综合,http://183.47.2.156:16883/udp/239.77.1.144:5146
 CCTV-2 财经,http://183.236.43.98:4013/udp/239.77.1.158:5146
 CCTV-4 中文国际,http://183.47.2.156:16883/udp/239.77.1.163:5146
 CCTV-4 中文国际,http://183.236.43.98:4013/udp/239.77.1.163:5146
 CCTV-6 电影,http://183.47.2.156:16883/udp/239.77.0.171:5146
 CCTV-6 电影,http://183.236.43.98:4013/udp/239.77.0.171:5146
-CCTV-8 电视,http://183.236.43.98:4013/udp/239.77.0.172:5146
+CCTV-8 电视,http://183.47.2.156:16883/udp/239.77.0.172:5146
 CCTV-9 纪录,http://183.47.2.156:16883/udp/239.77.0.135:5146
-CCTV-9 纪录,http://183.236.43.98:4013/udp/239.77.0.135:5146
-CCTV-10 科教,http://202.105.239.77:8188/udp/239.77.0.134:5146
+CCTV-10 科教,http://183.236.43.98:4013/udp/239.77.0.134:5146
 CCTV-13 新闻,http://116.76.254.170:44330/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-4K,http://183.47.2.156:16883/udp/239.77.0.194:5146
 CCTV-8K,http://107.150.52.50:82/live/cctv8k.m3u8
@@ -36,18 +35,19 @@ CCTV-8K,http://82.156.243.185:36888/av3a/cctv8kn.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 
 ☘️广东频道,#genre#
-广东卫视,http://183.47.2.156:16883/udp/239.77.0.166:5146
-广东卫视,http://183.47.2.156:16883/udp/239.77.1.152:5146
-广东卫视,http://183.236.43.98:4013/udp/239.77.1.19:5146
-广东卫视,http://183.47.2.156:16883/udp/239.77.1.19:5146
+广东卫视,http://116.76.254.170:44330/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
 大湾区卫视,http://154.12.36.187:656/index.php?token=2025&id=dwqws
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
-广东珠江,http://183.47.2.156:16883/udp/239.77.0.114:5146
 广东珠江,http://183.47.2.156:16883/udp/239.77.0.1:5146
+广东珠江,http://183.236.43.98:4013/udp/239.77.0.114:5146
 广东珠江,http://yanshifen.top:8889/udp/239.77.0.1:5146
+广东珠江,http://59.35.185.47:8188/udp/239.77.0.1:5146
+广东珠江,http://183.236.43.98:4013/udp/239.77.0.1:5146
+广东珠江,http://www.syy3.top:3861/udp/239.77.0.1:5146
+广东珠江,http://lsa.familyds.com:8188/rtp/239.77.0.1:5146
 广东珠江,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.1:5146
-广东珠江,http://vp.maomizi.cc:9530/udp/239.77.0.1:5146
+广东珠江,http://lsa.familyds.com:8188/udp/239.77.0.1:5146
 广东新闻,http://107.150.60.122/live/gdxw.m3u8
 广东新闻,http://192.151.150.154/live/gdxw.m3u8
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
@@ -55,11 +55,10 @@ CCTV-8K,http://82.156.243.185:36888/av3a/cctv8kn.m3u8
 广东新闻,http://107.150.60.122/live/gdxwa.m3u8
 广东民生,http://www.yahao.host:4022/udp/239.77.0.225:5146
 南国都市4K,http://183.47.2.156:16883/udp/239.253.43.99:5146
-广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=f80e5b7654c57c7571a314d94befe320&txTime=19019c051d5
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
 广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 
 📡卫视频道,#genre#
-浙江卫视,http://183.236.43.98:4013/udp/239.77.1.33:5146
 浙江卫视,http://router.qysm7.cn:8188/udp/239.77.1.33:5146
