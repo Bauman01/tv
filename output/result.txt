@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2026-08-01 19:46:31,http://183.236.43.98:4013/udp/239.77.1.144:5146
+2026-08-02 19:46:08,http://183.236.43.98:4013/udp/239.77.1.144:5146
 
 📺央视频道,#genre#
 CCTV-1 综合,http://183.236.43.98:4013/udp/239.77.1.144:5146
 CCTV-1 综合,http://183.47.2.156:16883/udp/239.77.1.144:5146
 CCTV-1 综合,http://116.76.254.170:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-2 财经,http://183.47.2.156:16883/udp/239.77.1.158:5146
-CCTV-2 财经,http://116.76.254.170:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-4 中文国际,http://183.236.43.98:4013/udp/239.77.1.163:5146
 CCTV-4 中文国际,http://116.76.254.170:44330/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-6 电影,http://183.47.2.156:16883/udp/239.77.0.171:5146
@@ -55,15 +54,7 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_10
 无线新闻,https://cdn6.cc.cd/163189/wxxwt
 无线新闻,https://cdn6.163189.xyz/163189/wxxw
 无线新闻,https://iptv.707626.xyz/ch/6be62e159f4a470cce4593fc6a780cd5/master.m3u8
-明珠台,http://119.32.12.73:2905/rtp/225.1.101.139:7523
-明珠台,http://zwg6818.vicp.net:28000/bysid/2.mpeg
-明珠台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD03JmtleT0qKioq
-明珠台,http://49.232.143.177:80/pyxg/export.php?id=7&key=****
-明珠台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD03JmtleT0lMkElMkElMkElMkE=
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://r.jdshipin.com/jUx8K
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+明珠台,http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
@@ -118,7 +109,6 @@ RTHK 32,https://fast.hidns.vip/163189/rthk32
 
 ☘️广东频道,#genre#
 广东卫视,http://183.47.2.156:16883/udp/239.77.0.166:5146
-广东卫视,http://www.yahao.host:4022/udp/239.77.0.84:5146
 大湾区卫视,http://154.12.36.187:656/index.php?token=2025&id=dwqws
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
@@ -129,10 +119,8 @@ RTHK 32,https://fast.hidns.vip/163189/rthk32
 大湾区卫视,http://ott.mobaibox.com/PLTV/-/224/3221228326/index.m3u8
 大湾区卫视,https://live.chinacert.cftest5.cn/cnmg/live/608917627
 广东珠江,http://jellyfin.cyruslee.top:8888/udp/239.77.0.1:5146
-广东珠江,http://183.47.2.156:16883/udp/239.77.0.1:5146
 广东珠江,http://plex.cyruslee.top:8888/udp/239.77.0.1:5146
-广东珠江,http://183.47.2.156:16883/udp/239.77.0.114:5146
-广东珠江,http://vp.maomizi.cc:9530/udp/239.77.0.1:5146
+广东珠江,http://ikuai.cyruslee.top:8888/udp/239.77.0.1:5146
 广东新闻,http://107.150.60.122/live/gdxw.m3u8
 广东新闻,http://192.151.150.154/live/gdxw.m3u8
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
@@ -144,15 +132,15 @@ RTHK 32,https://fast.hidns.vip/163189/rthk32
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-2.m3u8
 广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 南国都市4K,http://183.47.2.156:16883/udp/239.253.43.99:5146
+广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
+广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=659a511e&txSecret=1a5bbbb41bc728d271c8b99e5482f8e7
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=c651b79c107d9cde3914d011cbb896a6&txTime=190def3c97d
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=f80e5b7654c57c7571a314d94befe320&txTime=19019c051d5
-广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
-广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 广州新闻,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
 广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
-广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
-广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=659a511e&txSecret=1a5bbbb41bc728d271c8b99e5482f8e7
 
 📡卫视频道,#genre#
-浙江卫视,http://183.47.2.156:16883/udp/239.77.1.33:5146
+浙江卫视,http://183.236.43.98:4013/udp/239.77.1.33:5146
