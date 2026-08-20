@@ -1,11 +1,7 @@
 🕘️更新时间,#genre#
-2026-08-19 18:44:27,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
+2026-08-20 18:45:29,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
 📺央视频道,#genre#
-CCTV-8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
-CCTV-8K,http://ott.mobaibox.com/PLTV/-/224/3221228165/index.m3u8
-CCTV-8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
 🌊港澳台,#genre#
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
@@ -58,14 +54,6 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 TVB1,https://hls-gateway.vpstv.net/streams/709593.m3u8
 TVB1,https://cdn6.cc.cd/163189/tvb1
-RTHK 32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-RTHK 32,http://cdn.163189.xyz/163189/rthk32
-RTHK 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-RTHK 32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
-RTHK 32,http://cdn.163189.xyz/163189/rthk32#https://cdn9.163189.xyz/smt3.1.1.php?id=rhk32_twn
-RTHK 32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
-RTHK 32,https://smart.dxjc.pp.ua/smart.php?id=rhk32_twn&token=tmxk
-RTHK 32,https://fast.hidns.vip/163189/rthk32
 
 ☘️广东频道,#genre#
 广东新闻,https://hls-gateway.vpstv.net/streams/708873.m3u8
@@ -79,12 +67,3 @@ RTHK 32,https://fast.hidns.vip/163189/rthk32
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-12.ctv
 
 📡卫视频道,#genre#
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
-浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
-浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-浙江卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226690/1.m3u8
-浙江卫视,http://ott.mobaibox.com/PLTV/-/224/3221228309/index.m3u8
-浙江卫视,http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8
