@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260829055530 +0800">
+<tv date="20260829150426 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2559,180 +2559,6 @@
 	<channel id="TVB News">
 		<display-name lang="zh">TVB News</display-name>
 	</channel>
-	<programme channel="TVB News" start="20260828060000 +0800" stop="20260828063000 +0800">
-		<title lang="zh">香港早晨</title>
-	</programme>
-	<programme channel="TVB News" start="20260828063000 +0800" stop="20260828070000 +0800">
-		<title lang="zh">香港早晨</title>
-	</programme>
-	<programme channel="TVB News" start="20260828070000 +0800" stop="20260828073000 +0800">
-		<title lang="zh">香港早晨</title>
-	</programme>
-	<programme channel="TVB News" start="20260828073000 +0800" stop="20260828074000 +0800">
-		<title lang="zh">香港早晨 及 交通消息</title>
-	</programme>
-	<programme channel="TVB News" start="20260828074000 +0800" stop="20260828074500 +0800">
-		<title lang="zh">环球新闻档案</title>
-	</programme>
-	<programme channel="TVB News" start="20260828074500 +0800" stop="20260828083000 +0800">
-		<title lang="zh">香港早晨 及 交通消息</title>
-	</programme>
-	<programme channel="TVB News" start="20260828083000 +0800" stop="20260828090000 +0800">
-		<title lang="zh">香港早晨 及 交通消息</title>
-	</programme>
-	<programme channel="TVB News" start="20260828090000 +0800" stop="20260828093000 +0800">
-		<title lang="zh">新闻报道 及 俯瞰神州 及 中华掠影</title>
-	</programme>
-	<programme channel="TVB News" start="20260828093000 +0800" stop="20260828100000 +0800">
-		<title lang="zh">开市第一击 及 国宝时刻 及 新闻报道 及 三日天气预报</title>
-	</programme>
-	<programme channel="TVB News" start="20260828100000 +0800" stop="20260828103000 +0800">
-		<title lang="zh">新闻报道 及 才骏HASHTAG AI 点只科技股</title>
-	</programme>
-	<programme channel="TVB News" start="20260828103000 +0800" stop="20260828104500 +0800">
-		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="TVB News" start="20260828104500 +0800" stop="20260828105500 +0800">
-		<title lang="zh">新闻报道 及 新鸿基信贷特约: 港楼 . 讲楼</title>
-	</programme>
-	<programme channel="TVB News" start="20260828105500 +0800" stop="20260828110000 +0800">
-		<title lang="zh">环球新闻档案</title>
-	</programme>
-	<programme channel="TVB News" start="20260828110000 +0800" stop="20260828113000 +0800">
-		<title lang="zh">新闻报道 及 新闻档案 及 马百良熬鸡精呈献 : 四季食疗</title>
-	</programme>
-	<programme channel="TVB News" start="20260828113000 +0800" stop="20260828120000 +0800">
-		<title lang="zh">新闻报道 及 三日天气预报 及 时事通识</title>
-	</programme>
-	<programme channel="TVB News" start="20260828120000 +0800" stop="20260828123000 +0800">
-		<title lang="zh">午间新闻 及 国宝时刻 及 新鸿基信贷特约: 港楼 . 讲楼</title>
-	</programme>
-	<programme channel="TVB News" start="20260828123000 +0800" stop="20260828130000 +0800">
-		<title lang="zh">午间新闻</title>
-	</programme>
-	<programme channel="TVB News" start="20260828130000 +0800" stop="20260828133000 +0800">
-		<title lang="zh">新闻报道 及 俯瞰神州 及 中华掠影 及 时事通识</title>
-	</programme>
-	<programme channel="TVB News" start="20260828133000 +0800" stop="20260828140000 +0800">
-		<title lang="zh">新闻报道 及 三日天气预报</title>
-	</programme>
-	<programme channel="TVB News" start="20260828140000 +0800" stop="20260828143000 +0800">
-		<title lang="zh">新闻报道 及 新闻档案</title>
-	</programme>
-	<programme channel="TVB News" start="20260828143000 +0800" stop="20260828144500 +0800">
-		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="TVB News" start="20260828144500 +0800" stop="20260828150000 +0800">
-		<title lang="zh">新闻报道 及 新鸿基信贷特约: 港楼 . 讲楼</title>
-	</programme>
-	<programme channel="TVB News" start="20260828150000 +0800" stop="20260828153000 +0800">
-		<title lang="zh">新闻报道 及 深港沪快讯 及 环球新闻档案</title>
-	</programme>
-	<programme channel="TVB News" start="20260828153000 +0800" stop="20260828160000 +0800">
-		<title lang="zh">新闻报道 及 才骏HASHTAG AI 点只科技股 及 三日天气预报 及 国宝时刻</title>
-	</programme>
-	<programme channel="TVB News" start="20260828160000 +0800" stop="20260828163000 +0800">
-		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="TVB News" start="20260828163000 +0800" stop="20260828170000 +0800">
-		<title lang="zh">新闻报道 及 俯瞰神州 及 中华掠影</title>
-	</programme>
-	<programme channel="TVB News" start="20260828170000 +0800" stop="20260828172500 +0800">
-		<title lang="zh">新闻报道 及 新鸿基信贷特约: 港楼 . 讲楼</title>
-	</programme>
-	<programme channel="TVB News" start="20260828172500 +0800" stop="20260828173000 +0800">
-		<title lang="zh">新闻档案</title>
-	</programme>
-	<programme channel="TVB News" start="20260828173000 +0800" stop="20260828180000 +0800">
-		<title lang="zh">新闻报道 及 交通消息 及 三日天气预报 及 马百良熬鸡精呈献 : 四季食疗</title>
-	</programme>
-	<programme channel="TVB News" start="20260828180000 +0800" stop="20260828183000 +0800">
-		<title lang="zh">新闻报道 及 交通消息 及 时事通识 及 国宝时刻</title>
-	</programme>
-	<programme channel="TVB News" start="20260828183000 +0800" stop="20260828190000 +0800">
-		<title lang="zh">手语新闻报道</title>
-	</programme>
-	<programme channel="TVB News" start="20260828190000 +0800" stop="20260828193000 +0800">
-		<title lang="zh">新闻报道 及 新鸿基信贷特约: 港楼 . 讲楼</title>
-	</programme>
-	<programme channel="TVB News" start="20260828193000 +0800" stop="20260828200000 +0800">
-		<title lang="zh">新闻报道</title>
-	</programme>
-	<programme channel="TVB News" start="20260828200000 +0800" stop="20260828200500 +0800">
-		<title lang="zh">富途证券特约: 富途讲美股</title>
-	</programme>
-	<programme channel="TVB News" start="20260828200500 +0800" stop="20260828203000 +0800">
-		<title lang="zh">无线8点一小时新闻</title>
-	</programme>
-	<programme channel="TVB News" start="20260828203000 +0800" stop="20260828205000 +0800">
-		<title lang="zh">时事中国 及 无线8点一小时新闻</title>
-	</programme>
-	<programme channel="TVB News" start="20260828205000 +0800" stop="20260828210000 +0800">
-		<title lang="zh">立桥人寿特约: 天气报告 及 新鸿基信贷特约: 港楼 . 讲楼</title>
-	</programme>
-	<programme channel="TVB News" start="20260828210000 +0800" stop="20260828213000 +0800">
-		<title lang="zh">新闻报道 及 大国外交 及 新闻档案 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="TVB News" start="20260828213000 +0800" stop="20260828214500 +0800">
-		<title lang="zh">时事多面睇</title>
-	</programme>
-	<programme channel="TVB News" start="20260828214500 +0800" stop="20260828215500 +0800">
-		<title lang="zh">新闻报道 及 立桥人寿特约: 天气报告</title>
-	</programme>
-	<programme channel="TVB News" start="20260828215500 +0800" stop="20260828220000 +0800">
-		<title lang="zh">环球新闻档案</title>
-	</programme>
-	<programme channel="TVB News" start="20260828220000 +0800" stop="20260828223000 +0800">
-		<title lang="zh">新闻报道 及 大国外交 及 时事通识</title>
-	</programme>
-	<programme channel="TVB News" start="20260828223000 +0800" stop="20260828224000 +0800">
-		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="TVB News" start="20260828224000 +0800" stop="20260828230000 +0800">
-		<title lang="zh">财经多国度 及 新闻报道 及 三日天气预报</title>
-	</programme>
-	<programme channel="TVB News" start="20260828230000 +0800" stop="20260828233000 +0800">
-		<title lang="zh">晚间新闻 及 大国外交 及 新鸿基信贷特约: 港楼 . 讲楼</title>
-	</programme>
-	<programme channel="TVB News" start="20260828233000 +0800" stop="20260829000000 +0800">
-		<title lang="zh">晚间新闻 及 国宝时刻 及 时事中国 及 时事通识</title>
-	</programme>
-	<programme channel="TVB News" start="20260829000000 +0800" stop="20260829003000 +0800">
-		<title lang="zh">深宵新闻报道 及 新闻档案</title>
-	</programme>
-	<programme channel="TVB News" start="20260829003000 +0800" stop="20260829010000 +0800">
-		<title lang="zh">深宵新闻报道 及 俯瞰神州 及 三日天气预报</title>
-	</programme>
-	<programme channel="TVB News" start="20260829010000 +0800" stop="20260829013000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
-	</programme>
-	<programme channel="TVB News" start="20260829013000 +0800" stop="20260829020000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事中国</title>
-	</programme>
-	<programme channel="TVB News" start="20260829020000 +0800" stop="20260829023000 +0800">
-		<title lang="zh">深宵新闻报道 及 三日天气预报 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="TVB News" start="20260829023000 +0800" stop="20260829030000 +0800">
-		<title lang="zh">利嘉阁地产45周年真盘源特约: 今日有楼睇</title>
-	</programme>
-	<programme channel="TVB News" start="20260829030000 +0800" stop="20260829033000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
-	</programme>
-	<programme channel="TVB News" start="20260829033000 +0800" stop="20260829040000 +0800">
-		<title lang="zh">深宵新闻报道 及 俯瞰神州 及 时事中国</title>
-	</programme>
-	<programme channel="TVB News" start="20260829040000 +0800" stop="20260829043000 +0800">
-		<title lang="zh">深宵新闻报道 及 PicoLabb 特约: 世界观 及 中华掠影</title>
-	</programme>
-	<programme channel="TVB News" start="20260829043000 +0800" stop="20260829050000 +0800">
-		<title lang="zh">利嘉阁地产45周年真盘源特约: 今日有楼睇 及 三日天气预报</title>
-	</programme>
-	<programme channel="TVB News" start="20260829050000 +0800" stop="20260829053000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
-	</programme>
-	<programme channel="TVB News" start="20260829053000 +0800" stop="20260829060000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事中国</title>
-	</programme>
 	<programme channel="TVB News" start="20260829060000 +0800" stop="20260829063000 +0800">
 		<title lang="zh">香港早晨</title>
 	</programme>
@@ -3191,5 +3017,164 @@
 	</programme>
 	<programme channel="TVB News" start="20260901050000 +0800" stop="20260901053000 +0800">
 		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
+	</programme>
+	<programme channel="TVB News" start="20260901053000 +0800" stop="20260901060000 +0800">
+		<title lang="zh">深宵新闻报道 及 时事中国</title>
+	</programme>
+	<programme channel="TVB News" start="20260901060000 +0800" stop="20260901063000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="TVB News" start="20260901063000 +0800" stop="20260901070000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="TVB News" start="20260901070000 +0800" stop="20260901073000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="TVB News" start="20260901073000 +0800" stop="20260901074000 +0800">
+		<title lang="zh">香港早晨 及 交通消息</title>
+	</programme>
+	<programme channel="TVB News" start="20260901074000 +0800" stop="20260901074500 +0800">
+		<title lang="zh">环球新闻档案</title>
+	</programme>
+	<programme channel="TVB News" start="20260901074500 +0800" stop="20260901083000 +0800">
+		<title lang="zh">香港早晨 及 交通消息</title>
+	</programme>
+	<programme channel="TVB News" start="20260901083000 +0800" stop="20260901090000 +0800">
+		<title lang="zh">香港早晨 及 交通消息</title>
+	</programme>
+	<programme channel="TVB News" start="20260901090000 +0800" stop="20260901093000 +0800">
+		<title lang="zh">新闻报道 及 俯瞰神州 及 中华掠影</title>
+	</programme>
+	<programme channel="TVB News" start="20260901093000 +0800" stop="20260901100000 +0800">
+		<title lang="zh">开市第一击 及 新闻报道 及 三日天气预报</title>
+	</programme>
+	<programme channel="TVB News" start="20260901100000 +0800" stop="20260901103000 +0800">
+		<title lang="zh">新闻报道 及 时事多面睇</title>
+	</programme>
+	<programme channel="TVB News" start="20260901103000 +0800" stop="20260901104500 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="TVB News" start="20260901104500 +0800" stop="20260901110000 +0800">
+		<title lang="zh">新闻报道 及 环球新闻档案</title>
+	</programme>
+	<programme channel="TVB News" start="20260901110000 +0800" stop="20260901113000 +0800">
+		<title lang="zh">新闻报道 及 新闻档案</title>
+	</programme>
+	<programme channel="TVB News" start="20260901113000 +0800" stop="20260901120000 +0800">
+		<title lang="zh">新闻报道 及 有理说得清 及 三日天气预报 及 时事通识</title>
+	</programme>
+	<programme channel="TVB News" start="20260901120000 +0800" stop="20260901123000 +0800">
+		<title lang="zh">午间新闻</title>
+	</programme>
+	<programme channel="TVB News" start="20260901123000 +0800" stop="20260901130000 +0800">
+		<title lang="zh">午间新闻 及 时事多面睇</title>
+	</programme>
+	<programme channel="TVB News" start="20260901130000 +0800" stop="20260901133000 +0800">
+		<title lang="zh">新闻报道 及 俯瞰神州 及 中华掠影 及 时事通识</title>
+	</programme>
+	<programme channel="TVB News" start="20260901133000 +0800" stop="20260901140000 +0800">
+		<title lang="zh">新闻报道 及 三日天气预报</title>
+	</programme>
+	<programme channel="TVB News" start="20260901140000 +0800" stop="20260901143000 +0800">
+		<title lang="zh">新闻报道 及 新闻档案</title>
+	</programme>
+	<programme channel="TVB News" start="20260901143000 +0800" stop="20260901150000 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="TVB News" start="20260901150000 +0800" stop="20260901153000 +0800">
+		<title lang="zh">新闻报道 及 深港沪快讯 及 环球新闻档案</title>
+	</programme>
+	<programme channel="TVB News" start="20260901153000 +0800" stop="20260901160000 +0800">
+		<title lang="zh">新闻报道 及 有理说得清 及 三日天气预报</title>
+	</programme>
+	<programme channel="TVB News" start="20260901160000 +0800" stop="20260901163000 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="TVB News" start="20260901163000 +0800" stop="20260901170000 +0800">
+		<title lang="zh">新闻报道 及 俯瞰神州 及 中华掠影</title>
+	</programme>
+	<programme channel="TVB News" start="20260901170000 +0800" stop="20260901173000 +0800">
+		<title lang="zh">新闻报道 及 新闻档案</title>
+	</programme>
+	<programme channel="TVB News" start="20260901173000 +0800" stop="20260901180000 +0800">
+		<title lang="zh">新闻报道 及 交通消息 及 三日天气预报</title>
+	</programme>
+	<programme channel="TVB News" start="20260901180000 +0800" stop="20260901183000 +0800">
+		<title lang="zh">新闻报道 及 交通消息 及 时事通识</title>
+	</programme>
+	<programme channel="TVB News" start="20260901183000 +0800" stop="20260901190000 +0800">
+		<title lang="zh">手语新闻报道</title>
+	</programme>
+	<programme channel="TVB News" start="20260901190000 +0800" stop="20260901193000 +0800">
+		<title lang="zh">新闻报道</title>
+	</programme>
+	<programme channel="TVB News" start="20260901193000 +0800" stop="20260901200000 +0800">
+		<title lang="zh">新闻报道</title>
+	</programme>
+	<programme channel="TVB News" start="20260901200000 +0800" stop="20260901203000 +0800">
+		<title lang="zh">无线8点一小时新闻</title>
+	</programme>
+	<programme channel="TVB News" start="20260901203000 +0800" stop="20260901205000 +0800">
+		<title lang="zh">时事中国 及 无线8点一小时新闻</title>
+	</programme>
+	<programme channel="TVB News" start="20260901205000 +0800" stop="20260901210000 +0800">
+		<title lang="zh">立桥人寿特约: 天气报告</title>
+	</programme>
+	<programme channel="TVB News" start="20260901210000 +0800" stop="20260901213000 +0800">
+		<title lang="zh">新闻报道 及 大国外交 及 新闻档案 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="TVB News" start="20260901213000 +0800" stop="20260901215500 +0800">
+		<title lang="zh">新闻报道 及 立桥人寿特约: 天气报告</title>
+	</programme>
+	<programme channel="TVB News" start="20260901215500 +0800" stop="20260901220000 +0800">
+		<title lang="zh">环球新闻档案</title>
+	</programme>
+	<programme channel="TVB News" start="20260901220000 +0800" stop="20260901223000 +0800">
+		<title lang="zh">新闻报道 及 大国外交 及 时事通识</title>
+	</programme>
+	<programme channel="TVB News" start="20260901223000 +0800" stop="20260901224000 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="TVB News" start="20260901224000 +0800" stop="20260901230000 +0800">
+		<title lang="zh">财经多国度 及 新闻报道 及 三日天气预报</title>
+	</programme>
+	<programme channel="TVB News" start="20260901230000 +0800" stop="20260901233000 +0800">
+		<title lang="zh">晚间新闻 及 有理说得清 及 大国外交</title>
+	</programme>
+	<programme channel="TVB News" start="20260901233000 +0800" stop="20260902000000 +0800">
+		<title lang="zh">晚间新闻 及 时事中国 及 时事通识</title>
+	</programme>
+	<programme channel="TVB News" start="20260902000000 +0800" stop="20260902003000 +0800">
+		<title lang="zh">深宵新闻报道 及 新闻档案</title>
+	</programme>
+	<programme channel="TVB News" start="20260902003000 +0800" stop="20260902010000 +0800">
+		<title lang="zh">深宵新闻报道 及 俯瞰神州 及 三日天气预报</title>
+	</programme>
+	<programme channel="TVB News" start="20260902010000 +0800" stop="20260902013000 +0800">
+		<title lang="zh">深宵新闻报道</title>
+	</programme>
+	<programme channel="TVB News" start="20260902013000 +0800" stop="20260902020000 +0800">
+		<title lang="zh">深宵新闻报道 及 时事中国</title>
+	</programme>
+	<programme channel="TVB News" start="20260902020000 +0800" stop="20260902023000 +0800">
+		<title lang="zh">深宵新闻报道 及 三日天气预报 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="TVB News" start="20260902023000 +0800" stop="20260902030000 +0800">
+		<title lang="zh">马百良六宝灵芝呈献: 最强生命线</title>
+	</programme>
+	<programme channel="TVB News" start="20260902030000 +0800" stop="20260902033000 +0800">
+		<title lang="zh">深宵新闻报道</title>
+	</programme>
+	<programme channel="TVB News" start="20260902033000 +0800" stop="20260902040000 +0800">
+		<title lang="zh">深宵新闻报道 及 俯瞰神州 及 时事中国</title>
+	</programme>
+	<programme channel="TVB News" start="20260902040000 +0800" stop="20260902043000 +0800">
+		<title lang="zh">深宵新闻报道 及 PicoLabb 特约: 世界观 及 中华掠影</title>
+	</programme>
+	<programme channel="TVB News" start="20260902043000 +0800" stop="20260902050000 +0800">
+		<title lang="zh">马百良六宝灵芝呈献: 最强生命线 及 三日天气预报</title>
+	</programme>
+	<programme channel="TVB News" start="20260902050000 +0800" stop="20260902053000 +0800">
+		<title lang="zh">深宵新闻报道</title>
 	</programme>
 </tv>
