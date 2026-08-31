@@ -2,3 +2,8 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 bxtv.3a.ink
+
+catvod
+http://125.94.244.29:2101/1234
+
+http://122.152.202.33
