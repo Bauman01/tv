@@ -1,1 +1,7 @@
-Just a moment...Enable JavaScript and cookies to continue
+
+502 Bad Gateway
+
+502 Bad Gateway
+nginx
+
+
